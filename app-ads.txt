@@ -7,3 +7,4 @@ facebook.com, 1360087666292408, DIRECT, c3e20eee3f780d68
 facebook.com, 1722483366169826, DIRECT, c3e20eee3f780d68
 vungle.com, 6aa10041fe9530c740ac62de, DIRECT, c107d686becd2d77
 pangleglobal.com, 5039057, DIRECT
+bigo.sg,hdakiqudwh,DIRECT
